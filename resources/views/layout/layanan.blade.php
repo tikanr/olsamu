@@ -29,63 +29,65 @@
     <link rel="stylesheet" href="assets/css/wostin.css" />
     <link rel="stylesheet" href="assets/css/wostin-responsive.css" />
   </head>
-<body>
+  <body>
     <div class="preloader">
-    <img class="preloader__image" width="60" src="assets/images/loader.png" alt="" />
+        <img class="preloader__image" width="60" src="assets/images/loader.png" alt="" />
     </div>
-<!-- /.preloader -->
-<div class="page-wrapper">
-    <header class="main-header-three">
-        <nav class="main-menu main-menu-three">
-            <div class="main-menu-three__wrapper">
-                <div class="main-menu-wrapper__logo">
-                    <a href="index.html"><img src="assets/images/resources/logo-1.png" alt=""></a>
-                </div>
-                <div class="main-menu-three__main-menu">
-                    <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
-                    <ul class="main-menu__list">
-                        <li>
-                            <a href="/index" class="active-tab">Beranda</a>
-                        </li>
-                        <li>
-                            <a href="/service" class="active-tab">Layanan Kami</a>
-                        </li>
-                        <li>
-                            <a href="/about">Tentang Kami</a>
-                        </li>
-                        <li>
-                            <a href="/proses">Cara Kerja</a>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                              Informasi
-                            </a>
-                            <ul class="dropdown-menu">
-                              <li><a class="dropdown-item" href="/informasi">Bank Sampah</a></li>
-                              <li><a class="dropdown-item" href="/pemilihan_sampah">Pemilihan Sampah</a></li>
-                            </ul>
-                          </li>
-                        <li>
-                            <a href="/kontak">Kontak Kami</a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="main-menu-three__right">
-                    <div class="main-menu-three__search-box">
-                        <a href="/login">Masuk</a>
+    <!-- /.preloader -->
+    <div class="page-wrapper" style="background: linear-gradient(to bottom, #DCFFDB, #D9D9D9);;">
+    <div class="page-wrapper">
+        <header class="main-header-three">
+            <nav class="main-menu main-menu-three">
+                <div class="main-menu-three__wrapper">
+                    <div class="main-menu-wrapper__logo">
+                        <a href="index.html"><img src="assets/images/resources/logo-1.png" alt=""></a>
                     </div>
-                    <div class="main-menu-three__call">
-                        <div class="main-menu-three__call-icon">
-                            <span class="icon-budget"></span>
+                    <div class="main-menu-three__main-menu">
+                        <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
+                        <ul class="main-menu__list">
+                            <li>
+                                <a href="/index" class="active-tab">Beranda</a>
+                            </li>
+                            <li>
+                                <a href="/service" class="active-tab">Layanan Kami</a>
+                            </li>
+                            <li>
+                                <a href="/about">Tentang Kami</a>
+                            </li>
+                            <li>
+                                <a href="/proses">Cara Kerja</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                  Informasi
+                                </a>
+                                <ul class="dropdown-menu">
+                                  <li><a class="dropdown-item" href="/informasi">Bank Sampah</a></li>
+                                  <li><a class="dropdown-item" href="/pemilihan_sampah">Pemilihan Sampah</a></li>
+                                </ul>
+                              </li>
+                            <li>
+                                <a href="/kontak">Kontak Kami</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="main-menu-three__right">
+                        <div class="main-menu-three__search-box">
+                            <a href="/login">Masuk</a>
                         </div>
-                        <div class="main-menu-three__call-number">
-                            <h5><a href="/poin">Point</a></h5>
+                        <div class="main-menu-three__call">
+                            <div class="main-menu-three__call-icon">
+                                <span class="icon-budget"></span>
+                            </div>
+                            <div class="main-menu-three__call-number">
+                                <h5><a href="/poin">Point</a></h5>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-        </nav>
-    </header>
+            </nav>
+        </header>
+
         <!-- slider -->
 
         <section>
@@ -97,7 +99,7 @@
                             </h3>
                         <div class="manage-waste__btn-box">
                             <a href="https://api.whatsapp.com/send?phone=62895393112867&text=Saya%20ingin%20melakukan%20penukaran%20sampah,%20harap%20lakukan%20penjemputan%20ke%20lokasi%20saya%20sekarang.&app_absent=0" class="thm-btn manage-waste__btn-1">Jemput Sampahmu</a>
-                            <a href="/kontak" class="thm-btn manage-waste__btn-2">Hubungi Kami</a>
+                            <a href="contact.html" class="thm-btn manage-waste__btn-2">Hubungi Kami</a>
                         </div>
                     </div>
                 </div>

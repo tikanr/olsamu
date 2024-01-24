@@ -35,6 +35,7 @@
         <img class="preloader__image" width="60" src="assets/images/loader.png" alt="" />
     </div>
     <!-- /.preloader -->
+    <div class="page-wrapper" style="background: linear-gradient(to bottom, #DCFFDB, #D9D9D9);;">
     <div class="page-wrapper">
         <header class="main-header-three">
             <nav class="main-menu main-menu-three">
@@ -87,6 +88,7 @@
                 </div>
             </nav>
         </header>
+
         <!-- slider -->
         <section id="header-about">
             <h2 style="text-align: center;margin-top:200px;margin-bottom:50px;font-weight: 800;font-family: Arial, Helvetica, sans-serif;">Tentang Kami</h2>
@@ -198,7 +200,7 @@
 					<div class="item">
 						<div class="industries-one__single">
 							<div class="industries-one__img">
-								<img src="img\Intin.jpeg" alt="" style="height: 350px;">
+								<img src="img/Intin.jpeg" alt="" style="height: 350px;">
 							</div>
 							<div class="team-one__content">
                                 <p class="team-one__title">21533481</p>
@@ -224,7 +226,7 @@
 					<div class="item">
 						<div class="industries-one__single">
 							<div class="industries-one__img">
-								<img src="img\Tri.jpeg" alt="" style="height: 350px;">
+								<img src="img/Tri.jpeg" alt="" style="height: 350px;">
 							</div>
 							<div class="team-one__content">
                                 <p class="team-one__title">21533484</p>
@@ -237,7 +239,7 @@
 					<div class="item">
 						<div class="industries-one__single">
 							<div class="industries-one__img">
-								<img src="img\Amanda.jpeg" alt="" style="height: 350px;">
+								<img src="img/Amanda.jpeg" alt="" style="height: 350px;">
 							</div>
 							<div class="team-one__content">
                                 <p class="team-one__title">21533471</p>
